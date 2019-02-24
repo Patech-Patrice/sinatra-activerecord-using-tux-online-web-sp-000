@@ -4,7 +4,7 @@ gem 'activerecord'
 gem 'sinatra-activerecord'
 
 gem 'sinatra'
-gem 'sqlite3',  '>= 1.3.6' 
+gem 'sqlite3',  '~>1.3.6' 
 gem 'tux'
 gem 'pry'
 gem 'pry-nav'
